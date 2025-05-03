@@ -73,7 +73,7 @@ function App() {
           Welcome to the fastest service across the globe! Here you can find any
           kind of photo — all you need to do is make a request. We’d love to
           hear your feedback as soon as possible — we really appreciate you as a
-          user ❤️ Enjoy our service! 😋
+          user ❤️ Enjoy our service! 😋 🎉
         </p>
       )} 
 
