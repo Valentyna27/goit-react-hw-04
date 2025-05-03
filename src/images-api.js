@@ -22,7 +22,7 @@ export const fetchImages = async (query, page) => {
 
     return data.results;
   } catch (error) {
-    console.error('Error fetching images:', error);
+    console.error( error);
     throw error;
   }
 };
