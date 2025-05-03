@@ -1,0 +1,16 @@
+.LoadMoreBtn {
+  width: 130px;
+  height: 50px;
+  background-color: #d21313;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 30px;
+}
+
+.LoadMoreBtn:hover {
+  background-color: #ae0909;
+}

@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.wrapper {
+  padding: 20px;
+}
+
+.title {
+  font-size: 46px;
+  color: #a0150b;
+  margin-top: 150px;
+  text-align: center;
+}
